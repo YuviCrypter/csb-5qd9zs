@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://yuvicrypter.github.io/csb-5qd9zs/static/css/main.d1b063e4.chunk.css",
-    "main.js": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/main.0dedebd8.chunk.js",
-    "main.js.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/main.0dedebd8.chunk.js.map",
+    "main.css": "https://yuvicrypter.github.io/csb-5qd9zs/static/css/main.f1d21648.chunk.css",
+    "main.js": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/main.37198338.chunk.js",
+    "main.js.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/main.37198338.chunk.js.map",
     "runtime-main.js": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/runtime-main.e6ee9853.js",
     "runtime-main.js.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/runtime-main.e6ee9853.js.map",
-    "static/js/2.e58489ff.chunk.js": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/2.e58489ff.chunk.js",
-    "static/js/2.e58489ff.chunk.js.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/2.e58489ff.chunk.js.map",
+    "static/js/2.d9318080.chunk.js": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/2.d9318080.chunk.js",
+    "static/js/2.d9318080.chunk.js.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/2.d9318080.chunk.js.map",
     "static/js/3.1fc83bc2.chunk.js": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/3.1fc83bc2.chunk.js",
     "static/js/3.1fc83bc2.chunk.js.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/3.1fc83bc2.chunk.js.map",
     "index.html": "https://yuvicrypter.github.io/csb-5qd9zs/index.html",
-    "static/css/main.d1b063e4.chunk.css.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/css/main.d1b063e4.chunk.css.map",
-    "static/js/2.e58489ff.chunk.js.LICENSE.txt": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/2.e58489ff.chunk.js.LICENSE.txt",
+    "static/css/main.f1d21648.chunk.css.map": "https://yuvicrypter.github.io/csb-5qd9zs/static/css/main.f1d21648.chunk.css.map",
+    "static/js/2.d9318080.chunk.js.LICENSE.txt": "https://yuvicrypter.github.io/csb-5qd9zs/static/js/2.d9318080.chunk.js.LICENSE.txt",
     "static/media/styles.css": "https://yuvicrypter.github.io/csb-5qd9zs/static/media/digital-7.93911ab1.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.e6ee9853.js",
-    "static/js/2.e58489ff.chunk.js",
-    "static/css/main.d1b063e4.chunk.css",
-    "static/js/main.0dedebd8.chunk.js"
+    "static/js/2.d9318080.chunk.js",
+    "static/css/main.f1d21648.chunk.css",
+    "static/js/main.37198338.chunk.js"
   ]
 }
